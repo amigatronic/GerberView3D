@@ -3,6 +3,8 @@
 **A browser-based Gerber PCB viewer with interactive 2D and 3D
 visualization.**
 
+![GerberView3D Screenshot](screenshots/GUI.jpg)
+
 GerberView3D lets you load a PCB's Gerber and drill files, inspect its
 layers in 2D, and generate an interactive 3D board preview. It runs
 locally in your web browser: your design files are not uploaded to a
